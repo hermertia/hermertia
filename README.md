@@ -70,7 +70,7 @@ Welcome to the Hermertia Commons.
 
 ## 🔀 Relationship to Hermertia Wars
 
-Hermertia Wars https://hermertiawars.com is a **separate, non‑canon commercial IP** inspired by Hermertia.  
+Hermertia Wars https://hermertiawars.com is a **separate, non‑canon commercial IP** owned by Hermertia Studios Co-operative Incorporated, inspired by Hermertia.  
 Only content explicitly imported into Hermertia Wars becomes part of its cooperative IP.
 
 Hermertia remains:
