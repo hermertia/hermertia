@@ -112,3 +112,22 @@ Adaptations may diverge from Hermertia canon, but will honor the spirit of the o
 
 This policy protects the openness of Hermertia and the integrity of Hermertia Wars.
 
+## 9. Cooperative Membership Benefit (Hermertia Studios Cooperative)
+
+Hermertia Wars is developed and governed by **Hermertia Studios Cooperative**.
+
+Creators whose Hermertia content is imported into Hermertia Wars receive a cooperative benefit:
+
+### **Right to Annual Membership Request**
+As long as their imported content remains in active use within Hermertia Wars, the creator may:
+
+- Request cooperative membership **once per year**,  
+- Have the option to **waive the standard membership fee**,
+
+As a member, the creator may:
+- Join the cooperative’s governance, decision‑making, and profit‑sharing structure.
+
+This benefit exists **in perpetuity** for as long as the imported content remains part of Hermertia Wars.
+
+This policy ensures that contributors whose work enriches Hermertia Wars have a pathway into the cooperative that recognizes and respects their creative impact.
+
