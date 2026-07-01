@@ -28,7 +28,7 @@ The complete legal text of the CC BY-SA 4.0 license is available at:
 
 ## Relationship to Hermertia Wars
 
-Hermertia Wars is a **separate, non‑canon commercial IP**.  
+Hermertia Wars is a **separate, non‑canon commercial IP** owned by Hermertia Studios Co-operative Incorporated.  
 Only content explicitly imported into Hermertia Wars becomes part of its cooperative IP.  
 All Hermertia content remains under CC BY‑SA 4.0.
 
