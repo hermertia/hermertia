@@ -112,9 +112,9 @@ Adaptations may diverge from Hermertia canon, but will honor the spirit of the o
 
 This policy protects the openness of Hermertia and the integrity of Hermertia Wars.
 
-## 9. Cooperative Membership Benefit (Hermertia Studios Cooperative)
+## 9. Cooperative Membership Benefit (Hermertia Studios Cooperative Inc.)
 
-Hermertia Wars is developed and governed by **Hermertia Studios Cooperative**.
+Hermertia Wars is developed and governed by **Hermertia Studios Cooperative Incorporated**.
 
 Creators whose Hermertia content is imported into Hermertia Wars receive a cooperative benefit:
 
