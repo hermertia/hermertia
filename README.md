@@ -67,6 +67,7 @@ and support future creativity across both community and commercial projects.
 
 Welcome to the Hermertia Commons.
 
+---
 
 ## 🔀 Relationship to Hermertia Wars
 
