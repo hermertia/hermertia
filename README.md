@@ -77,7 +77,6 @@ Hermertia remains:
 - Open  
 - Community‑governed  
 - Non‑owned  
-- Share‑alike  
 
 Hermertia Wars remains:
 - Proprietary  
