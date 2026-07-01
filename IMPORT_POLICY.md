@@ -3,7 +3,7 @@
 Hermertia is an open, community‑driven world licensed under  
 **Creative Commons Attribution–ShareAlike 4.0 International (CC BY‑SA 4.0)**.
 
-Hermertia Wars is a **separate, non‑canon commercial IP** inspired by Hermertia.  
+Hermertia Wars is a **separate, non‑canon commercial IP** owned by Hermertia Studios Co-operative Incorporated, inspired by Hermertia.  
 This document explains how content may be imported from Hermertia into Hermertia Wars.
 
 ---
